@@ -1,4 +1,4 @@
-# Deep Q learning on safe value functions
+# Learning safe value functions
 
 To extend the theoretical work in [Safe Value Functions](https://arxiv.org/abs/2105.12204) to practical reinforcement learning (RL) algorithms and provide empirical evaluations.
 Specifically, we want to show that we can learn safe value functions and, consequently, viable sets
