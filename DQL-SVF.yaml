@@ -1,0 +1,16 @@
+name: DQL-SVF
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pytorch
+  - python
+  - seaborn
+  - numpy=1.18.4
+  - scipy=1.5.1
+  - matplotlib=3.0.3
+  - joblib
+  - pandas
+  - pip
+  - pip:
+    - varname
